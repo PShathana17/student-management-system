@@ -1,0 +1,37 @@
+[
+    {
+        "name": "student1",
+        "roll": 101,
+        "python": 90,
+        "sql": 100,
+        "maths": 90
+    },
+    {
+        "name": "student2",
+        "roll": 102,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    },
+    {
+        "name": "student3",
+        "roll": 103,
+        "python": 90,
+        "sql": 89,
+        "maths": 90
+    },
+    {
+        "name": "student4",
+        "roll": 105,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    },
+    {
+        "name": "student5",
+        "roll": 104,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    }
+]
