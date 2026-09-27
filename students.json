@@ -1,0 +1,44 @@
+[
+    {
+        "name": "shathana",
+        "roll": 101,
+        "python": 100,
+        "sql": 100,
+        "maths": 90
+    },
+    {
+        "name": "sri",
+        "roll": 102,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    },
+    {
+        "name": "sahana",
+        "roll": 103,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    },
+    {
+        "name": "akshaya",
+        "roll": 104,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    },
+    {
+        "name": "sujitha",
+        "roll": 105,
+        "python": 90,
+        "sql": 90,
+        "maths": 90
+    },
+    {
+        "name": "aarthi",
+        "roll": 107,
+        "python": 100,
+        "sql": 90,
+        "maths": 90
+    }
+]
